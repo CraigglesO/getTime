@@ -1,5 +1,5 @@
 {
-  "name": "getTime",
+  "name": "gettime",
   "version": "1.0.50",
   "description": "Get the time beautified with global access",
   "main": "getTime.js",
