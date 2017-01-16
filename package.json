@@ -1,6 +1,6 @@
 {
   "name": "gettime",
-  "version": "1.0.50",
+  "version": "1.0.51",
   "description": "Get the time beautified with global access",
   "main": "getTime.js",
   "bin": {
@@ -15,7 +15,7 @@
   "license": "ISC",
   "repository" : {
     "type" : "git",
-    "url" : ""
+    "url" : "https://github.com/CraigglesO/getTime"
   },
   "devDependencies": {
     "@types/node": "^7.0.0",
