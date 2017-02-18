@@ -1,6 +1,8 @@
 
 # getTime
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigglesO/getTime.svg)](https://greenkeeper.io/)
+
 ### Get the time beautified with global access
 
 A global access way to understand time from UTC numbers like 1403454068850.
